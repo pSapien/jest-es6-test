@@ -69,3 +69,6 @@ SyntaxError: Unexpected token 'export'
 
 1. Please put `type: "module"` in your package.json file.
 2. Use `node --experimental-vm-modules node_modules/.bin/jest` instead of `jest` in your scripts
+
+--------------------------------------------
+node version : v14.16.0
