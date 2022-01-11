@@ -1,3 +1,9 @@
+#### Configurations
+
+yarn : 1.22.15
+node: v14.16.0
+
+
 #### HOW TO
 
 1. Update your `package.json`
